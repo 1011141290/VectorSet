@@ -20,6 +20,10 @@ using namespace std;
 // 主要用于数据量小的情况下的集合操作
 
 
+class TesterGit {
+};
+
+
 template<typename T>
 class VectorSet  
 {
